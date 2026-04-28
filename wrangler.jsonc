@@ -1,0 +1,14 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "gym-depot-cavite",
+  "compatibility_date": "2026-04-28",
+  "observability": {
+    "enabled": true
+  },
+  "assets": {
+    "directory": "GymDepot-Deploy"
+  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ]
+}
